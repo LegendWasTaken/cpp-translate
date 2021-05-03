@@ -1,0 +1,384 @@
+{
+  "words": [
+    {
+      "content": "align as",
+      "replacement": " "
+    },
+    {
+      "content": "align of",
+      "replacement": " "
+    },
+    {
+      "content": "and",
+      "replacement": ""
+    },
+    {
+      "content": "and eq",
+      "replacement": "_"
+    },
+    {
+      "content": "asm",
+      "replacement": ""
+    },
+    {
+      "content": "atomic cancel",
+      "replacement": "_"
+    },
+    {
+      "content": "atomic commit",
+      "replacement": "_"
+    },
+    {
+      "content": "atomic noexcept",
+      "replacement": "_"
+    },
+    {
+      "content": "auto",
+      "replacement": ""
+    },
+    {
+      "content": "bitand",
+      "replacement": ""
+    },
+    {
+      "content": "bitor",
+      "replacement": ""
+    },
+    {
+      "content": "bool",
+      "replacement": ""
+    },
+    {
+      "content": "break",
+      "replacement": ""
+    },
+    {
+      "content": "case",
+      "replacement": ""
+    },
+    {
+      "content": "catch",
+      "replacement": ""
+    },
+    {
+      "content": "char",
+      "replacement": ""
+    },
+    {
+      "content": "char8 t",
+      "replacement": "_"
+    },
+    {
+      "content": "char16 t",
+      "replacement": "_"
+    },
+    {
+      "content": "char32 t",
+      "replacement": "_"
+    },
+    {
+      "content": "class",
+      "replacement": ""
+    },
+    {
+      "content": "compl",
+      "replacement": ""
+    },
+    {
+      "content": "concept",
+      "replacement": ""
+    },
+    {
+      "content": "const",
+      "replacement": ""
+    },
+    {
+      "content": "const eval",
+      "replacement": " "
+    },
+    {
+      "content": "const expr",
+      "replacement": " "
+    },
+    {
+      "content": "const init",
+      "replacement": " "
+    },
+    {
+      "content": "const cast",
+      "replacement": "_"
+    },
+    {
+      "content": "continue",
+      "replacement": ""
+    },
+    {
+      "content": "co await",
+      "replacement": "_"
+    },
+    {
+      "content": "co return",
+      "replacement": "_"
+    },
+    {
+      "content": "co yield",
+      "replacement": "_"
+    },
+    {
+      "content": "default",
+      "replacement": ""
+    },
+    {
+      "content": "delete",
+      "replacement": ""
+    },
+    {
+      "content": "do",
+      "replacement": ""
+    },
+    {
+      "content": "double",
+      "replacement": ""
+    },
+    {
+      "content": "dynamic cast",
+      "replacement": "_"
+    },
+    {
+      "content": "else",
+      "replacement": ""
+    },
+    {
+      "content": "enum",
+      "replacement": ""
+    },
+    {
+      "content": "explicit",
+      "replacement": ""
+    },
+    {
+      "content": "export",
+      "replacement": ""
+    },
+    {
+      "content": "extern",
+      "replacement": ""
+    },
+    {
+      "content": "false",
+      "replacement": ""
+    },
+    {
+      "content": "float",
+      "replacement": ""
+    },
+    {
+      "content": "for",
+      "replacement": ""
+    },
+    {
+      "content": "friend",
+      "replacement": ""
+    },
+    {
+      "content": "goto",
+      "replacement": ""
+    },
+    {
+      "content": "if",
+      "replacement": ""
+    },
+    {
+      "content": "inline",
+      "replacement": ""
+    },
+    {
+      "content": "int",
+      "replacement": ""
+    },
+    {
+      "content": "long",
+      "replacement": ""
+    },
+    {
+      "content": "mutable",
+      "replacement": ""
+    },
+    {
+      "content": "name space",
+      "replacement": " "
+    },
+    {
+      "content": "new",
+      "replacement": ""
+    },
+    {
+      "content": "no except",
+      "replacement": " "
+    },
+    {
+      "content": "not",
+      "replacement": ""
+    },
+    {
+      "content": "not eq",
+      "replacement": "_"
+    },
+    {
+      "content": "null pointer",
+      "replacement": " "
+    },
+    {
+      "content": "operator",
+      "replacement": ""
+    },
+    {
+      "content": "or",
+      "replacement": ""
+    },
+    {
+      "content": "or eq",
+      "replacement": "_"
+    },
+    {
+      "content": "private",
+      "replacement": ""
+    },
+    {
+      "content": "protected",
+      "replacement": ""
+    },
+    {
+      "content": "public",
+      "replacement": ""
+    },
+    {
+      "content": "register",
+      "replacement": ""
+    },
+    {
+      "content": "reinterpret cast",
+      "replacement": "_"
+    },
+    {
+      "content": "requires",
+      "replacement": ""
+    },
+    {
+      "content": "return",
+      "replacement": ""
+    },
+    {
+      "content": "short",
+      "replacement": ""
+    },
+    {
+      "content": "signed",
+      "replacement": ""
+    },
+    {
+      "content": "sizeof",
+      "replacement": ""
+    },
+    {
+      "content": "static",
+      "replacement": ""
+    },
+    {
+      "content": "static assert",
+      "replacement": "_"
+    },
+    {
+      "content": "static cast",
+      "replacement": "_"
+    },
+    {
+      "content": "struct",
+      "replacement": ""
+    },
+    {
+      "content": "switch",
+      "replacement": ""
+    },
+    {
+      "content": "synchronized",
+      "replacement": ""
+    },
+    {
+      "content": "template",
+      "replacement": ""
+    },
+    {
+      "content": "this",
+      "replacement": ""
+    },
+    {
+      "content": "thread local",
+      "replacement": "_"
+    },
+    {
+      "content": "throw",
+      "replacement": ""
+    },
+    {
+      "content": "true",
+      "replacement": ""
+    },
+    {
+      "content": "try",
+      "replacement": ""
+    },
+    {
+      "content": "type definition",
+      "replacement": " "
+    },
+    {
+      "content": "type id",
+      "replacement": " "
+    },
+    {
+      "content": "typename",
+      "replacement": ""
+    },
+    {
+      "content": "union",
+      "replacement": ""
+    },
+    {
+      "content": "unsigned",
+      "replacement": ""
+    },
+    {
+      "content": "using",
+      "replacement": ""
+    },
+    {
+      "content": "virtual",
+      "replacement": ""
+    },
+    {
+      "content": "void",
+      "replacement": ""
+    },
+    {
+      "content": "volatile",
+      "replacement": ""
+    },
+    {
+      "content": "wchar t",
+      "replacement": "_"
+    },
+    {
+      "content": "while",
+      "replacement": ""
+    },
+    {
+      "content": "xor",
+      "replacement": ""
+    },
+    {
+      "content": "xor eq",
+      "replacement": "_"
+    }
+  ]
+}

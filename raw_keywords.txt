@@ -1,0 +1,95 @@
+align as
+align of
+and
+and_eq
+asm
+atomic_cancel
+atomic_commit
+atomic_noexcept
+auto
+bitand
+bitor
+bool
+break
+case
+catch
+char
+char8_t
+char16_t
+char32_t
+class
+compl
+concept
+const
+const eval
+const expr
+const init
+const_cast
+continue
+co_await
+co_return
+co_yield
+default
+delete
+do
+double
+dynamic_cast
+else
+enum
+explicit
+export
+extern
+false
+float
+for
+friend
+goto
+if
+inline
+int
+long
+mutable
+name space
+new
+no except
+not
+not_eq
+null pointer
+operator
+or
+or_eq
+private
+protected
+public
+register
+reinterpret_cast
+requires
+return
+short
+signed
+sizeof
+static
+static_assert
+static_cast
+struct
+switch
+synchronized
+template
+this
+thread_local
+throw
+true
+try
+type definition
+type id
+typename
+union
+unsigned
+using
+virtual
+void
+volatile
+wchar_t
+while
+xor
+xor_eq
